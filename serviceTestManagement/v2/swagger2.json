@@ -1173,7 +1173,7 @@
                     "type": "string", 
                     "description": "The number of allowed crossing occurrences in reference to the \ntolerancePeriod without a consequence being initiated."
                 }, 
-                "thresholdRuleSeveri ty": {
+                "thresholdRuleSeverity": {
                     "type": "string", 
                     "description": "A threshold can be generated in different severity levels. A \ncrossing for each level may require a different condition and possibly trigger a different consequence."
                 }, 
